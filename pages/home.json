@@ -1,0 +1,18 @@
+{
+  "hero": {
+  "header": "Trova Nuova Giovinezza <br> Scarica Energia Negativa",
+  "subheader": "Сarica <br> Allegria e Positivo",
+  "subtext": "Ci auguriamo che davvero godere la nostra atmosfera di relax e comfort. Tutto questo è possibile grazie ai nostri programmi."
+},
+ "about":{
+   "header": "Benvenuti nella nostra Relax Spa Roma",
+   "subtext": "Sentire l'effetto delle procedure rilassanti, sentire come il corpo si rilassa e si nutre delle forze vitali-non è un sogno? Oggi la nostra Relax Spa Roma – non solo e non tanto procedura di cosmetici, quanto un rito, finalizzato al rilascio di tossine, ringiovanimento e miglioramento dello stato della pelle, l'attivazione dei processi metabolici nel corpo in generale."
+ },
+"team": {
+  "subheader": "Team",
+  "header": "Incontra Il Team",
+  "people": [
+    {"name": "Marco", "image": "/images/person_1.jpg", "quote": "SPA procedure - quanto in questo suono per il nostro cuore si è fusa!", "position": "proprietario"}
+  ]
+  }
+ }

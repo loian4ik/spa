@@ -1,0 +1,28 @@
+{
+  "homepage": "https://loian4ik.github.io/spa",
+  "name": "spa",
+  "version": "0.0.0",
+  "server": false,
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "node ./bin/www",
+    "serve": "turbo devserver",
+    "test": "",
+    "build": "",
+    "postinstall": "turbo postinstall",
+    "reset": "rimraf ./tmp/*"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "turbo360": "^1.8.69",
+    "vertex360": "^0.30.40"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "nodemon": "^2.0.19",
+    "rimraf": "^3.0.2"
+  },
+  "format": "vertex"
+}
